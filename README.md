@@ -1,14 +1,14 @@
-# Olá, eu sou o Kayodê Ferreira Amorim Santos
+# Olá, eu me chamo Kayodê Ferreira Amorim Santos
 
 ### Desenvolvedor Front-End | Angular & TypeScript
 
 ---
 
 ### Sobre mim
--  Atualmente trabalhando no meu **Portfólio Angular** hospedado na Vercel.
+-  Atualmente estou trabalhando no meu **Portfólio Angular** hospedado na Vercel.
 -  Estudando **Angular, RxJS, TypeScript e UI/UX**.
 -  Me pergunte sobre **Angular, JavaScript e HTML/CSS**.
--  Como me encontrar: **[kayode.fasantos@gmail.com](mailto:kayode.fasantos@gmail.com)**
+-  Como me encontrar: **[kayode.fasantos@gmail.com](mailto:kayode.fasantos@gmail.com) [instagram.com/444kyxg]**
 
 ---
 
