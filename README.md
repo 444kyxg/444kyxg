@@ -1,18 +1,18 @@
-# Olá, eu sou o Kayodê Ferreira Amorim Santos 👋
+# Olá, eu sou o Kayodê Ferreira Amorim Santos
 
-### 🚀 Desenvolvedor Front-End | Angular & TypeScript
-
----
-
-### 👨‍💻 Sobre mim
-- 🔭 Atualmente trabalhando no meu **Portfólio Angular** hospedado na Vercel.
-- 🌱 Estudando **Angular, RxJS, TypeScript e UI/UX**.
-- 💬 Me pergunte sobre **Angular, JavaScript e HTML/CSS**.
-- 📬 Como me encontrar: **[kayode.fasantos@gmail.com](mailto:kayode.fasantos@gmail.com)**
+### Desenvolvedor Front-End | Angular & TypeScript
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Sobre mim
+-  Atualmente trabalhando no meu **Portfólio Angular** hospedado na Vercel.
+-  Estudando **Angular, RxJS, TypeScript e UI/UX**.
+-  Me pergunte sobre **Angular, JavaScript e HTML/CSS**.
+-  Como me encontrar: **[kayode.fasantos@gmail.com](mailto:kayode.fasantos@gmail.com)**
+
+---
+
+###  Tecnologias e Ferramentas
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 Estatísticas no GitHub
+###  Estatísticas no GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=444kyxg&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="150" />
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+###  Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kayodê-ferreira)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=globe&logoColor=white)](https://portfolio-kayode.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kayode.vercel.app/)
