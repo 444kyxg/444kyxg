@@ -36,4 +36,4 @@
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kayodê-ferreira)
-[![Portfolio](https://img.shields.io/badge/My-Portfolio-0077B5?style=for-the-badge&logo=globe&logoColor=white)](https://portfolio-kayode.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=for-the-badge&logo=globe&logoColor=white)](https://portfolio-kayode.vercel.app/)
