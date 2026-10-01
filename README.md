@@ -8,7 +8,7 @@
 -  Atualmente estou trabalhando no meu **Portfólio Angular** hospedado na Vercel.
 -  Estudando **Angular, RxJS, TypeScript e UI/UX**.
 -  Me pergunte sobre **Angular, JavaScript e HTML/CSS**.
--  Como me encontrar: **[kayode.fasantos@gmail.com](mailto:kayode.fasantos@gmail.com) [instagram.com/444kyxg]**
+-  Como me encontrar: **[kayode.fasantos@gmail.com](mailto:kayode.fasantos@gmail.com)]** | **[Instagram](https://instagram.com/444kyxg)**
 
 ---
 
